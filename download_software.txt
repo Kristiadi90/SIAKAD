@@ -1,0 +1,5 @@
+1. Dowload Python3.7.3:
+https://www.python.org/ftp/python/3.7.3/python-3.7.3.exe
+
+2. Download ActiveTcl versi 8.6 atau 8.5 harus daftar akun dulu :
+https://www.activestate.com/products/activetcl/downloads/
